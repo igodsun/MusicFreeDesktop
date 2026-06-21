@@ -1,7 +1,3 @@
-txt
-build.yml
-
-其他应用打开
 name: Build
 
 on:
